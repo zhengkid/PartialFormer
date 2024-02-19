@@ -1,2 +1,2 @@
 # PartialFormer
-Official code of PartialFormer (Soon)
+Official code of PartialFormer 
